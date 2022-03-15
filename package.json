@@ -1,0 +1,16 @@
+{
+  "name": "real-time-chat",
+  "version": "1.0.0",
+  "description": "Real-Time Chat application using Socket.io in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sachetti Milagros",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "serve-handler": "^6.1.3",
+    "ws": "^8.5.0"
+  }
+}
